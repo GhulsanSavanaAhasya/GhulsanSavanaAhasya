@@ -17,7 +17,7 @@ Every project is a chance to **grow**, **experiment**, and **learn** something n
 ---
 
 ## 📘 Learning Goals
-[![My Skills](https://skillicons.dev/icons?i=typescript,tailwind,react,nextjs,nodejs,express,vue,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,react,typescript,nextjs,nodejs,express,vue,mongodb)](https://skillicons.dev)
 
 ---
 
