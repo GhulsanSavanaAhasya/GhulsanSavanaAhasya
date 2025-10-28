@@ -12,12 +12,12 @@ Every project is a chance to **grow**, **experiment**, and **learn** something n
 ---
 
 ## 🔧 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,tailwind&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github&perline=3)](https://skillicons.dev)
 
 ---
 
 ## 📘 Learning Goals
-[![My Skills](https://skillicons.dev/icons?i=react,typescript,nextjs,nodejs,express,vue,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,react,typescript,nextjs,nodejs,express,vue,mongodb)](https://skillicons.dev)
 
 ---
 
