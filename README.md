@@ -12,7 +12,7 @@ Every project is a chance to **grow**, **experiment**, and **learn** something n
 ---
 
 ## 🔧 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,tailwind&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,tailwind)](https://skillicons.dev)
 
 ---
 
